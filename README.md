@@ -1,4 +1,4 @@
-# Hiểu quy trình tạo cây từ DCC vào UE: Nanite Assemblies, Dynamic Wind
+# Quy trình tạo cây từ DCC vào UE: Nanite Assemblies, Dynamic Wind
 
 ## 0. Trước khi bắt đầu…
 Hướng dẫn này dành cho những người có kiến thức cao hơn chút so với người mới bắt đầu, tập trung hoàn toàn vào workflow Nanite Assemblies, Dynamic Wind — không liên quan đến việc tạo mô hình hay lưới (mesh).
