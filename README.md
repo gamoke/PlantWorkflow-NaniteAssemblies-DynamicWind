@@ -3,7 +3,9 @@
 ## 0. Trước khi bắt đầu…
 Hướng dẫn này dành cho những người có kiến thức cao hơn chút xíu so với người mới bắt đầu, tập trung hoàn toàn vào workflow Nanite Assemblies, Dynamic Wind — không liên quan đến việc tạo mô hình hay lưới (mesh).
 
-## 1. Phần có giải thích, [QUÁ TRÌNH LÀM VÀ HỌC](https://excalidraw.com/#json=pcw5fbfSbDoJdCw1M2uww,75DC-cZ1vcU5H_wTFtkZbQ) _**/sẽ cập nhật tiếp phần 1./**_
+## 1. Phần có giải thích, [QUÁ TRÌNH LÀM VÀ HỌC](https://excalidraw.com/#json=T2Y31_SshCE3Sc9x7HiVK,4fkSPqWUUHWwbkBCQvLZ5g) _**/sẽ cập nhật tiếp phần 1./**_
+![Nanite,-Dynamic-Wind,-and-Assemblies](https://github.com/user-attachments/assets/0f385e13-27c3-4d3d-894b-ba262474ae98)
+
 ## Còn đây là phần thẳng như ruột ngựa, step by step:
 ## 2.0 HOUDINI 
 
